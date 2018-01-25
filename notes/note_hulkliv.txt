@@ -1,0 +1,6 @@
+/home/sandbox2/var/hulkliv_test.lock
+
+hulkliv -mat sources alltxt nojouve produit 30 lignes sur la sortie d'erreur
+hulkliv en crée 124
+
+Quels sont les options de la ligne de commande
